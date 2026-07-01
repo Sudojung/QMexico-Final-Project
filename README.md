@@ -161,13 +161,7 @@ El resultado debe interpretarse solo como una demostración educativa de modelad
 
 ## Limitaciones y ética
 
-- El dataset es pequeño y semi-real.
-- Los perfiles son sintéticos.
-- La escala de habilidades es simplificada.
-- La matriz 4×4 sirve para validar el pipeline, no para tomar decisiones reales.
-- No se usan datos personales ni sensibles.
-- En un caso real se necesitarían más variables, validación institucional y revisión ética.
-
+Este proyecto utiliza un dataset semi-real con perfiles sintéticos y una representación simplificada de habilidades para demostrar la formulación de un problema de matching 4×4 como QUBO y su resolución mediante QAOA. Su propósito es exclusivamente educativo, por lo que no debe emplearse para la toma de decisiones reales. Además, no se utilizan datos personales o sensibles; una aplicación en un entorno real requeriría un conjunto de datos más amplio, variables adicionales y una validación técnica, institucional y ética.
 ## Archivos principales
 
 - `proyecto_qubo_qaoa.ipynb`: notebook final con QUBO, validación clásica y QAOA local.
