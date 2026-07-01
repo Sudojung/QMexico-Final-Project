@@ -1,0 +1,17 @@
+a_id,a_nombre,b_id,b_nombre,score,a_python,b_python,a_linear_algebra,b_linear_algebra,a_optimization,b_optimization,a_data_analysis,b_data_analysis,a_cybersecurity,b_cybersecurity,a_communication,b_communication
+A1,Estudiante_Quantum_Software,B1,QAOA_para_matching,8.48,5,5,4,4,3,5,3,3,2,1,4,2
+A1,Estudiante_Quantum_Software,B2,QML_para_datos_pequenos,8.12,5,4,4,5,3,3,3,5,2,1,4,3
+A1,Estudiante_Quantum_Software,B3,Criptografia_postcuantica_intro,7.28,5,3,4,3,3,2,3,2,2,5,4,4
+A1,Estudiante_Quantum_Software,B4,Divulgacion_quantum_labs,7.68,5,2,4,3,3,2,3,3,2,2,4,5
+A2,Estudiante_Data_Optimization,B1,QAOA_para_matching,8.36,4,5,3,4,5,5,5,3,1,1,3,2
+A2,Estudiante_Data_Optimization,B2,QML_para_datos_pequenos,8.4,4,4,3,5,5,3,5,5,1,1,3,3
+A2,Estudiante_Data_Optimization,B3,Criptografia_postcuantica_intro,6.12,4,3,3,3,5,2,5,2,1,5,3,4
+A2,Estudiante_Data_Optimization,B4,Divulgacion_quantum_labs,6.52,4,2,3,3,5,2,5,3,1,2,3,5
+A3,Estudiante_Cybersecurity_PQC,B1,QAOA_para_matching,5.76,3,5,3,4,2,5,2,3,5,1,4,2
+A3,Estudiante_Cybersecurity_PQC,B2,QML_para_datos_pequenos,6.28,3,4,3,5,2,3,2,5,5,1,4,3
+A3,Estudiante_Cybersecurity_PQC,B3,Criptografia_postcuantica_intro,10.0,3,3,3,3,2,2,2,2,5,5,4,4
+A3,Estudiante_Cybersecurity_PQC,B4,Divulgacion_quantum_labs,8.32,3,2,3,3,2,2,2,3,5,2,4,5
+A4,Estudiante_Research_Communication,B1,QAOA_para_matching,6.72,2,5,4,4,3,5,3,3,3,1,5,2
+A4,Estudiante_Research_Communication,B2,QML_para_datos_pequenos,7.24,2,4,4,5,3,3,3,5,3,1,5,3
+A4,Estudiante_Research_Communication,B3,Criptografia_postcuantica_intro,7.76,2,3,4,3,3,2,3,2,3,5,5,4
+A4,Estudiante_Research_Communication,B4,Divulgacion_quantum_labs,8.96,2,2,4,3,3,2,3,3,3,2,5,5
