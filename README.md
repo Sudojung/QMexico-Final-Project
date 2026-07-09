@@ -11,6 +11,7 @@ El objetivo del proyecto es formular un problema de emparejamiento bipartito de 
 ├── data/
 │   └── dataset_real_4x4.csv
 ├── proyecto_qubo_qaoa.ipynb
+├── proyecto_qubo_qaoa_ejecutado.ipynb
 └── README.md
 ```
 
